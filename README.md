@@ -12,7 +12,7 @@ The tool operates in a 4-phase, iterative workflow, managed via a Google Sheet a
 
 ## Development Team
 
-Designed and Developed by Simon
+Designed and Developed by Simon as a test app.
 
 ## Key Features
 
