@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Deep Research Tool is a Google Apps Script-based application designed to automate the generation of in-depth research doc (aka "First Draft). It leverages the power of Large Language Models (LLMs) like Google's Gemini API (specifically its File API and content generation capabilities) to process source documents from Google Drive, strategically plan a report structure, generate content for each section with iterative reflection, and consolidate it into a final, polished Google Document.
+The Deep Research Tool is a Google Apps Script-based application designed to automate the generation of in-depth research doc (aka "First Draft"). It leverages the power of Large Language Models (LLMs) like Google's Gemini API (specifically its File API and content generation capabilities) to process source documents from Google Drive, strategically plan a report structure, generate content for each section with iterative reflection, and consolidate it into a final, polished Google Document.
 
 The tool operates in a 4-phase, iterative workflow, managed via a Google Sheet acting as a control hub. This phased approach is designed to handle potentially long-running tasks within Google Apps Script execution time limits by breaking down the process, saving state between steps, and allowing for automated continuation.
 
