@@ -1,8 +1,8 @@
-# Deep Research Tool
+# InsightForge - Deep Research Tool
 
 ## Executive Summary
 
-First Draft Generation with Google Apps Script & LLM API Calls
+First Draft Generation with Script & LLM API Calls
 
 ## Overview
 
