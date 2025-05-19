@@ -1,4 +1,8 @@
-# Deep Research Tool - First Draft Generation with Google Apps Script & LLM API Calls
+# Deep Research Tool
+
+## Executive Summary
+
+First Draft Generation with Google Apps Script & LLM API Calls
 
 ## Overview
 
