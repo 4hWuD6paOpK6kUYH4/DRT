@@ -10,6 +10,10 @@ The Deep Research Tool is a Google Apps Script-based application designed to aut
 
 The tool operates in a 4-phase, iterative workflow, managed via a Google Sheet acting as a control hub. This phased approach is designed to handle potentially long-running tasks within Google Apps Script execution time limits by breaking down the process, saving state between steps, and allowing for automated continuation.
 
+## Development Team
+
+Designed and Developed by Simon
+
 ## Key Features
 
 * **Automated 4-Phase Workflow:** From file processing to final report generation, the tool automates a sophisticated research pipeline.
